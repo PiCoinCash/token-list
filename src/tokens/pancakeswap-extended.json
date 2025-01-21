@@ -2,7 +2,7 @@
   {
     "name": "WBNB Token",
     "symbol": "WBNB",
-    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "address": "0xf9826326913566d9f1e70825ebcf5a9e7e556085",
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
