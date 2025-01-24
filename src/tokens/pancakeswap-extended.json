@@ -1,4 +1,11 @@
-[
+{
+  "symbol": "PCH",
+  "name": "picoincash",
+  "address": "0xf9826326913566d9f1e70825ebcf5a9e7e556085",
+  "chainId": 56,
+  "decimals": 18,
+  "logoURI": "https://1drv.ms/i/c/b1051a53d51744a1/EZKw_VkmdTtPsjridrcX_soBbkxTPehlpGkY9YevjT4rpw?e=Oo2eqg/logo.png"
+},
   {
     "name": "WBNB Token",
     "symbol": "WBNB",
